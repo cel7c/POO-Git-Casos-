@@ -1,0 +1,22 @@
+ID,Nombre,Cantidad,Unidad,Proveedor
+1,Arroz,50,kg,Distribuidora Lima
+2,Lentejas,30,kg,AgroPerú
+3,Aceite,10,l,Mayorista Norte
+4,Frijoles,20,kg,AgroPerú
+5,Harina,25,kg,Distribuidora Lima
+6,Azúcar,15,kg,Dulces S.A.
+7,Sal,10,kg,Distribuidora Lima
+8,Carne de res,40,kg,Carnes del Sur
+9,Pollo,60,kg,Pollos del Norte
+10,Pescado,30,kg,Pescados y Mariscos
+11,Leche,100,l,Lácteos Andinos
+12,Huevos,200,unidades,Granja Feliz
+13,Pan,150,unidades,Panes y Más
+14,Tomate,40,kg,Hortalizas del Valle
+15,Cebolla,30,kg,Hortalizas del Valle
+16,Zanahoria,25,kg,Hortalizas del Valle
+17,Lechuga,20,kg,Hortalizas del Valle
+18,Manzana,50,kg,Frutas del Bosque
+19,Plátano,60,kg,Frutas del Bosque
+20,Naranja,40,kg,Frutas del Bosque
+
